@@ -2,7 +2,7 @@
 
 A simple calendar widget that displays the current month, day of the week, day number, and year. This widget is built using HTML, CSS, and JavaScript.
 
-![Calendar Widget Screenshot](https://github.com/spl3ndid/Calender-Widget/screenshot.png)
+![Calendar Widget Screenshot](https://github.com/spl3ndid/Calender-Widget/blob/main/screenshot.png)
 
 ## Features
 
